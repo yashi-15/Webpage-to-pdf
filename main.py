@@ -1,14 +1,10 @@
-"""
-Prerequisites:
-wkhtmltopdf download
 
-"""
+# Prerequisites:
+# wkhtmltopdf download
 
-"""
-How to run:
-Run (streamlit run main.py) in terminal
+# How to run:
+# Run (streamlit run main.py) in terminal
 
-"""
 
 
 import io
