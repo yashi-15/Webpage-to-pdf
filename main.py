@@ -6,7 +6,7 @@ wkhtmltopdf download
 
 """
 How to run:
-Run (streamlit run yy.py) in terminal
+Run (streamlit run main.py) in terminal
 
 """
 
